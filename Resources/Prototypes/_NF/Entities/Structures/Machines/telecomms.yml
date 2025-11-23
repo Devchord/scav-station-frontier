@@ -21,6 +21,7 @@
       - EncryptionKeyNfsd
       - EncryptionKeyTraffic
       - EncryptionKeyPublic # Scav
+      - EncryptionKeyGreeting
 
 - type: entity
   parent: TelecomServer
